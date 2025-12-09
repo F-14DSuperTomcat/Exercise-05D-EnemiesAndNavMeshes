@@ -6,6 +6,9 @@ TagManager:
   tags:
   - enemy
   - wall
+  - tile
+  - MazeExit
+  - Handgun
   layers:
   - Default
   - TransparentFX
